@@ -1,2 +1,2 @@
 # erlexec
-erlang 相关联系和实践
+erlang 相关exercise和实践
